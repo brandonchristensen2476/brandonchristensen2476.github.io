@@ -18,21 +18,21 @@
 
 ---
 
-# 👋 About Me
+# About Me
 
-I'm a Mechanical Engineering student at Utah Valley University with interests in
+I'm a Mechanical Engineering graduate from Utah Valley University with interests in
 
-- ⚙️ Mechanical Design
-- 🤖 Automation
-- 🖥️ Controls Engineering
-- 🔋 Mechatronics
-- 📊 Data Analysis
+- Mechanical Design
+- Automation
+- Controls Engineering
+- Mechatronics
+- Data Analysis
 
 I'm passionate about building projects that combine hardware, software, and engineering analysis.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ Closed-loop temperature controller using Arduino.
 
 <td width="50%" align="center">
 
-## CFD Analysis
+## Cube Sat Design and Build
 
 <a href="projects/cfd.md">
 
@@ -85,7 +85,7 @@ ANSYS Fluent simulations of flow through an orifice plate.
 
 <td width="50%" align="center">
 
-## Robotics
+## CADCAM Wheel Model
 
 <a href="projects/robotics.md">
 
