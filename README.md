@@ -8,11 +8,11 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonchristensen2/)
 
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge)]
 
-[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail)]
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.christensen2476@gmail.com)
 
 </div>
 
@@ -103,7 +103,7 @@ Arduino servo control and embedded systems.
 
 ---
 
-# 🛠 Skills
+# Skills
 
 ### CAD
 
@@ -126,7 +126,7 @@ Arduino servo control and embedded systems.
 
 ---
 
-# 📈 Experience
+# Experience
 
 | Company | Position |
 |----------|----------|
@@ -136,7 +136,7 @@ Arduino servo control and embedded systems.
 
 ---
 
-# 📫 Contact
+# Contact
 
 - LinkedIn
 - GitHub
